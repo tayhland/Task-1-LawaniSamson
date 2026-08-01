@@ -16,6 +16,7 @@ No duplicate records were found, column names were formatted properly, columns w
 # Tools
 - Microsoft Excel
 - Github
+- Jupyter Notebook
 # Exploratory Data Analysis (EDA)
 
 ## Project Overview
